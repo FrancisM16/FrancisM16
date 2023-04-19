@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Mori</h1>
-<h3 align="center">A passionate UI Developer from Perú</h3>
+<h3 align="center">A passionate UI Developer from Peru</h3>
 
 - 🌱 I’m currently learning **React**
 
